@@ -76,3 +76,5 @@ for(let i = 0; i < tileCount; i++) {
     colorsPicklist.splice(RndInd, 1);
     tilesContainer.appendChild(tile);
 }
+
+print("scr.js loaded");
