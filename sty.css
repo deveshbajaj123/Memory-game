@@ -18,3 +18,7 @@ body {
 	border: 5px solid #444444;
 	cursor: pointer;
 }
+
+.tile:hover {
+	background: #222222;
+}
